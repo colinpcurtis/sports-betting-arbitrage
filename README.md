@@ -33,7 +33,7 @@ $$100 * o_{11}$$ no matter what happens.
 
 However, we've invested $100(1 + \frac{o_{11}}{o_{22}})$.
 
-Due to some fancy math you could prove that given $\frac{1}{o_{11}} + \frac{1}{o_{12}} < 1$, the inequality  $100(1 + \frac{o_{11}}{o_{22}}) < 100 o_{11}$ always hold, ensuring a risk free profit.
+Due to some fancy math you could prove that given $\frac{1}{o_{11}} + \frac{1}{o_{12}} < 1$, the inequality $100(1 + \frac{o_{11}}{o_{22}}) < 100 o_{11}$ will always hold, ensuring a risk free profit.
 
 ## Shortcomings
 In practice, arbitrage opportunities don't exist for a long time as they are quickly taken advantage of, and the possibility for human error when making bets is large. 
