@@ -1,0 +1,923 @@
+[
+    {
+        "id": "6ebcbc87957d3f4337c4f32fa3b8ffe1",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-10-23T20:04:41Z",
+        "home_team": "Las Vegas Raiders",
+        "away_team": "Houston Texans",
+        "bookmakers": []
+    },
+    {
+        "id": "2534c9e1734e30648edaa9ec84a1a926",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-10-23T20:05:00Z",
+        "home_team": "Denver Broncos",
+        "away_team": "New York Jets",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:58:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 6.25
+                            },
+                            {
+                                "name": "New York Jets",
+                                "price": 1.12
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:56Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 6.3
+                            },
+                            {
+                                "name": "New York Jets",
+                                "price": 1.13
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9ac1f4d3a1c0c5e3fc519936ddfcc23e",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-10-23T20:25:22Z",
+        "home_team": "Los Angeles Chargers",
+        "away_team": "Seattle Seahawks",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:58:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 7.5
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.09
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:56Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 8.5
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.08
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "217f00b3f4c966285aa77df528fc1587",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-10-23T20:26:35Z",
+        "home_team": "San Francisco 49ers",
+        "away_team": "Kansas City Chiefs",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:58:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": 1.13
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": 6.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:56Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Kansas City Chiefs",
+                                "price": 1.05
+                            },
+                            {
+                                "name": "San Francisco 49ers",
+                                "price": 11.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "676af13d00d07460e4b12e150d4368cd",
+        "sport_key": "soccer_brazil_campeonato",
+        "sport_title": "Brazil S\u00e9rie A",
+        "commence_time": "2022-10-23T20:59:54Z",
+        "home_team": "Atletico Goianiense",
+        "away_team": "Cear\u00e1",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:53:45Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atletico Goianiense",
+                                "price": 1.0
+                            },
+                            {
+                                "name": "Cear\u00e1",
+                                "price": 56.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 26.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:52:05Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atletico Goianiense",
+                                "price": 1.02
+                            },
+                            {
+                                "name": "Cear\u00e1",
+                                "price": 161.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 14.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b3ebe0e47c479f0c1ccfebcdc6065194",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2022-10-23T21:00:00Z",
+        "home_team": "Detroit Red Wings",
+        "away_team": "Anaheim Ducks",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:58:01Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Anaheim Ducks",
+                                "price": 9.5
+                            },
+                            {
+                                "name": "Detroit Red Wings",
+                                "price": 1.05
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Anaheim Ducks",
+                                "price": 8.0
+                            },
+                            {
+                                "name": "Detroit Red Wings",
+                                "price": 1.08
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e8acbb698b16435e3a69fa3fb7466cc7",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2022-10-23T21:00:00Z",
+        "home_team": "New York Rangers",
+        "away_team": "Columbus Blue Jackets",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:58:01Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Columbus Blue Jackets",
+                                "price": 1.14
+                            },
+                            {
+                                "name": "New York Rangers",
+                                "price": 5.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Columbus Blue Jackets",
+                                "price": 1.16
+                            },
+                            {
+                                "name": "New York Rangers",
+                                "price": 4.9
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c4a9f478eb2e6c411326805e03b62b69",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2022-10-23T21:00:00Z",
+        "home_team": "Florida Panthers",
+        "away_team": "New York Islanders",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:58:01Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Florida Panthers",
+                                "price": 1.15
+                            },
+                            {
+                                "name": "New York Islanders",
+                                "price": 5.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Florida Panthers",
+                                "price": 1.12
+                            },
+                            {
+                                "name": "New York Islanders",
+                                "price": 5.6
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e668820805d18714093252ea52f59604",
+        "sport_key": "soccer_brazil_campeonato",
+        "sport_title": "Brazil S\u00e9rie A",
+        "commence_time": "2022-10-23T21:00:20Z",
+        "home_team": "Cuiab\u00e1",
+        "away_team": "Goi\u00e1s",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:24Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cuiab\u00e1",
+                                "price": 56.0
+                            },
+                            {
+                                "name": "Goi\u00e1s",
+                                "price": 1.02
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 16.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:56:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cuiab\u00e1",
+                                "price": 181.0
+                            },
+                            {
+                                "name": "Goi\u00e1s",
+                                "price": 1.03
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 13.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "99ef251df4aabcc38c1a6e903d38fb24",
+        "sport_key": "soccer_brazil_campeonato",
+        "sport_title": "Brazil S\u00e9rie A",
+        "commence_time": "2022-10-23T21:01:28Z",
+        "home_team": "Coritiba",
+        "away_team": "Internacional",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:55:38Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Coritiba",
+                                "price": 31.0
+                            },
+                            {
+                                "name": "Internacional",
+                                "price": 23.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 1.01
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:53:45Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Coritiba",
+                                "price": 17.0
+                            },
+                            {
+                                "name": "Internacional",
+                                "price": 15.0
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 1.06
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "010b537070f7a58da6fb2a247c218529",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2022-10-23T21:10:11Z",
+        "home_team": "Atlanta Hawks",
+        "away_team": "Charlotte Hornets",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Hawks",
+                                "price": 15.0
+                            },
+                            {
+                                "name": "Charlotte Hornets",
+                                "price": 1.02
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f8845fe3c433254e663680eb4d0b24d4",
+        "sport_key": "icehockey_nhl",
+        "sport_title": "NHL",
+        "commence_time": "2022-10-23T23:00:00Z",
+        "home_team": "Philadelphia Flyers",
+        "away_team": "San Jose Sharks",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:58:01Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Flyers",
+                                "price": 1.8
+                            },
+                            {
+                                "name": "San Jose Sharks",
+                                "price": 2.02
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:59Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Philadelphia Flyers",
+                                "price": 1.8
+                            },
+                            {
+                                "name": "San Jose Sharks",
+                                "price": 2.05
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e5c7331f8f87880a4855c0f346471bf5",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2022-10-23T23:10:00Z",
+        "home_team": "Cleveland Cavaliers",
+        "away_team": "Washington Wizards",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.61
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 2.4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:57:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Cavaliers",
+                                "price": 1.62
+                            },
+                            {
+                                "name": "Washington Wizards",
+                                "price": 2.35
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b9eff1756c12eb85dcf7facad3cc15b7",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2022-10-23T23:10:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Utah Jazz",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 1.3
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 3.75
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:57:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "New Orleans Pelicans",
+                                "price": 1.28
+                            },
+                            {
+                                "name": "Utah Jazz",
+                                "price": 3.85
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "383ae8a7bc4606c8ff45acf3c6b94fff",
+        "sport_key": "soccer_usa_mls",
+        "sport_title": "MLS",
+        "commence_time": "2022-10-24T00:00:00Z",
+        "home_team": "Austin FC",
+        "away_team": "FC Dallas",
+        "bookmakers": [
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:57:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Austin FC",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "FC Dallas",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Austin FC",
+                                "price": 2.15
+                            },
+                            {
+                                "name": "FC Dallas",
+                                "price": 3.2
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 3.35
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b3ee6094e8fb70060e06107f0413babd",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2022-10-24T00:08:00Z",
+        "home_team": "New York Yankees",
+        "away_team": "Houston Astros",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:58:16Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 2.0
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.83
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:58:18Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Houston Astros",
+                                "price": 2.02
+                            },
+                            {
+                                "name": "New York Yankees",
+                                "price": 1.83
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0fca9ae8e08ab8fad75a24db4d4b6e49",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2022-10-24T00:10:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "Minnesota Timberwolves",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.29
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 3.85
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:57:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Timberwolves",
+                                "price": 1.27
+                            },
+                            {
+                                "name": "Oklahoma City Thunder",
+                                "price": 3.9
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d5efe8b731ef3b24213cc963f589072d",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": "2022-10-24T00:20:00Z",
+        "home_team": "Miami Dolphins",
+        "away_team": "Pittsburgh Steelers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:56Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 1.31
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 3.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:58:12Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 1.32
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0138e8cef8d3b043fedebd3f059c07f0",
+        "sport_key": "basketball_nba",
+        "sport_title": "NBA",
+        "commence_time": "2022-10-24T00:40:00Z",
+        "home_team": "Golden State Warriors",
+        "away_team": "Sacramento Kings",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2022-10-23T22:57:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.22
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 4.7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "barstool",
+                "title": "Barstool Sportsbook",
+                "last_update": "2022-10-23T22:57:47Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "outcomes": [
+                            {
+                                "name": "Golden State Warriors",
+                                "price": 1.23
+                            },
+                            {
+                                "name": "Sacramento Kings",
+                                "price": 4.4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "sport": "americanfootball_nfl",
+        "commence_time": "2022-10-23T20:26:35Z",
+        "bookmaker1": "barstool",
+        "bookmaker2": "draftkings",
+        "outcome1": 1.13,
+        "outcome2": 11.0,
+        "bet1": 100,
+        "bet2": 10.272727272727272,
+        "team1": "Kansas City Chiefs",
+        "team2": "San Francisco 49ers",
+        "percent_return": 2.473206924979383
+    },
+    {
+        "sport": "americanfootball_nfl",
+        "commence_time": "2022-10-23T20:26:35Z",
+        "bookmaker1": "draftkings",
+        "bookmaker2": "barstool",
+        "outcome1": 11.0,
+        "outcome2": 1.13,
+        "bet1": 100,
+        "bet2": 10.272727272727272,
+        "team1": "Kansas City Chiefs",
+        "team2": "San Francisco 49ers",
+        "percent_return": 2.473206924979383
+    }
+]
