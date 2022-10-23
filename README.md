@@ -25,7 +25,7 @@ However if this sum is less than 1, then it means that the bookmakers disagree o
 
 Without loss of generality now suppose that we have $\frac{1}{o_{11}} + \frac{1}{o_{12}} < 1$ and $o_{11} < o_{22}$
 
-Place a bet of \$100 on outcome with the lowest odds (outcome 1 at bookmaker 1), which is $o_{11}$ in our case.  We can bet $100 * \frac{o_{11}}{o_{22}}$ on the other outcome (outcome 2 at bookmaker 2).
+Place a bet of 100 dollars on outcome with the lowest odds (outcome 1 at bookmaker 1), which is $o_{11}$ in our case.  We can bet $100 * \frac{o_{11}}{o_{22}}$ on the other outcome (outcome 2 at bookmaker 2).
 
 Then we're guarenteed to make 
 
